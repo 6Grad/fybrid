@@ -1,0 +1,5 @@
+Fybrid - Facebook Hybrid Library.
+Share Code between Client & Server.
+
+Thanks to https://github.com/wooga/node-facebook-signed-request
+for the signed Request decoder.
